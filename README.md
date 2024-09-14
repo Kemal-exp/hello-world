@@ -1,8 +1,12 @@
 # hello-world
 (我感兴趣的)Это Любовь Мая
 ## 一些收藏
-### 数学家Loring W. Tu的官网
+#### 数学家Loring W. Tu的主页
 https://lwtu.github.io
+#### 数学家Jeff A. Viaclovsky的主页
+https://www.math.uci.edu/~jviaclov/
+#### 数学家李文威的主页
+https://www.wwli.asia/index.php/zh/
 ## Math
 ### 1. Complex Geometry
 我熟悉的教程：
