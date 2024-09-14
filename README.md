@@ -4,6 +4,7 @@
 数学家Loring W. Tu的主页 https://lwtu.github.io  
 数学家Jeff A. Viaclovsky的主页https://www.math.uci.edu/~jviaclov/  
 数学家李文威的主页https://www.wwli.asia/index.php/zh/  
+V.阿诺尔德on teaching math（我并不认同） https://doc.global-sci.org/uploads/Issue/MC/v3n4/34_54.pdf?code=VPA%2Ba4WC5bU8XIYKXpQP3g%3D%3D
 ## Math
 ### 1. Complex Geometry
 我熟悉的教程：
