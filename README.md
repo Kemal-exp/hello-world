@@ -14,7 +14,8 @@ V.阿诺尔德on teaching math（我并不认同） https://doc.global-sci.org/u
 我熟悉的教程：
 《紧黎曼曲面引论》作者: 伍鸿熙/吕以辇/陈志华  
 参考：1. https://www.math.stonybrook.edu/~cschnell/pdf/notes/complex-manifolds.pdf  
-&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;2. Complex Geometry: An Introduction（Universitext）by Daniel Huybrechts        
+&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;2. Complex Geometry: An Introduction（Universitext）by Daniel Huybrechts  
+以及（一份不完整的）答案（感谢 Junming Zhang）：https://www.llddeddym.site/files/2022-11-01-Solutions-Complex-Geometry.pdf  
 Confused and interested by：  
 &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;1.Kodaira vanishing theorem  
 &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;2.Other vanishing theorems  
