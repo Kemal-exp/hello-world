@@ -53,5 +53,6 @@ Get interested in：
 #### 《技术大全》
 #### 《泥人十四》
 #### 莱姆的其它小说
-#### 松本清张
+#### 松本清张![Seichō_Matsumoto_(1955,_46_years_old)](https://github.com/user-attachments/assets/e9922ae8-9617-4d6a-8636-d178bb2541a8)
+
 #### 《名侦探柯南》
