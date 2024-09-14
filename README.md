@@ -19,6 +19,8 @@ Get interested in：
 &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;1、Index Theory  
 ## 分析与论证
 感兴趣的话题
-### F*cking Schools！！！！！
+### F*cking Schools！！！！！（自由学习&必须警惕学校）
+参考：https://supermemo.guru/wiki/SuperMemo_Guru
+或参考知乎up主：https://www.zhihu.com/people/L.M.Sherlock
 
 
