@@ -1,7 +1,7 @@
 # hello-world
 (我感兴趣的)Это Любовь Мая
 ## 急急
-有谁教我**消没定理**啊？
+有谁教我**消没(Vanishing)定理**啊？
 ## 一些收藏
 Guo Chuan Thiang 数学（物理）课程 http://faculty.bicmr.pku.edu.cn/~guochuanthiang/  
 李吟The Gauss-Bonnet-Chern Theorem on Riemannian Manifolds https://www.maths.ed.ac.uk/~v1ranick/papers/li4.pdf  
@@ -53,6 +53,9 @@ Get interested in：
 #### 《技术大全》
 #### 《泥人十四》
 #### 莱姆的其它小说
-#### 松本清张![Seichō_Matsumoto_(1955,_46_years_old)](https://github.com/user-attachments/assets/e9922ae8-9617-4d6a-8636-d178bb2541a8)
+### 7.松本清张
+### 8.《名侦探柯南》与坂井泉水
+##### ![Conan_7](https://github.com/user-attachments/assets/f3dcf96a-abf4-4d79-87bf-02b89a64a8bf)![Conan_4](https://github.com/user-attachments/assets/8502d9d1-4dbe-4b58-9548-1f0bf59f635f)![Conan_6](https://github.com/user-attachments/assets/abbed50a-3694-4886-a353-3caeec47f1a1)![Conan_9](https://github.com/user-attachments/assets/69fbd82e-f1f7-4551-bb98-7ec2d3d41b82)![Conan_12](https://github.com/user-attachments/assets/aa1f5257-903e-4d81-8b24-48a864c96673)![Conan_5](https://github.com/user-attachments/assets/3b8d78dc-f8e2-4388-a122-9c91f3269078)
 
-#### 《名侦探柯南》
+
+
