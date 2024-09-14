@@ -1,5 +1,7 @@
 # hello-world
 (我感兴趣的)Это Любовь Мая
+## 急急
+有谁教我**消没定理**啊？
 ## 一些收藏
 Guo Chuan Thiang 数学（物理）课程 http://faculty.bicmr.pku.edu.cn/~guochuanthiang/  
 李吟The Gauss-Bonnet-Chern Theorem on Riemannian Manifolds https://www.maths.ed.ac.uk/~v1ranick/papers/li4.pdf  
@@ -22,7 +24,7 @@ V.阿诺尔德on teaching math（我并不认同） https://doc.global-sci.org/u
 参考：1. https://www.math.stonybrook.edu/~cschnell/pdf/notes/complex-manifolds.pdf  
 &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;2. Complex Geometry: An Introduction（Universitext）by Daniel Huybrechts  
 以及（一份不完整的）答案（感谢 Junming Zhang）：https://www.llddeddym.site/files/2022-11-01-Solutions-Complex-Geometry.pdf  
-Confused and interested by：  
+**Confused and interested** by：  
 &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;1.Kodaira vanishing theorem  
 &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;2.Other vanishing theorems  
 ### 2. Algebraic Topology
