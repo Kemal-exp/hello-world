@@ -1,6 +1,7 @@
 # hello-world
 (我感兴趣的)Это Любовь Мая
 ## 一些收藏
+Guo Chuan Thiang 数学（物理）课程 http://faculty.bicmr.pku.edu.cn/~guochuanthiang/  
 李吟The Gauss-Bonnet-Chern Theorem on Riemannian Manifolds https://www.maths.ed.ac.uk/~v1ranick/papers/li4.pdf  
 【复代数几何, Pierre Albin, 伊利诺伊大学厄巴纳-香槟分校 (UIUC), 2020-哔哩哔哩】 https://b23.tv/vIboOYS  
 浙理工庄晓波 基础拓扑学(basic topology) https://b23.tv/b214KHn  
