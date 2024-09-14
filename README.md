@@ -2,8 +2,8 @@
 (我感兴趣的)Это Любовь Мая
 ## math
 ### Complex Geometry
-我熟悉的教程：\n
-《紧黎曼曲面引论》作者: 伍鸿熙/吕以辇/陈志华
+我熟悉的教程：
+《紧黎曼曲面引论》作者: 伍鸿熙/吕以辇/陈志华  
 参考：1、https://www.math.stonybrook.edu/~cschnell/pdf/notes/complex-manifolds.pdf
      2、Complex Geometry: An Introduction（Universitext）by Daniel Huybrechts
 Confused and interested by：
