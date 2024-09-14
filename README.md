@@ -1,6 +1,7 @@
 # hello-world
 (我感兴趣的)Это Любовь Мая
 ## 一些收藏
+【复代数几何, Pierre Albin, 伊利诺伊大学厄巴纳-香槟分校 (UIUC), 2020-哔哩哔哩】 https://b23.tv/vIboOYS  
 浙理工庄晓波 基础拓扑学(basic topology) https://b23.tv/b214KHn  
 沈明民《Hodge理论》b站视频https://b23.tv/CcFgYm1  
 南京大学石亚龙老师的复几何讲义(b站有视频，也许没过期)http://maths.nju.edu.cn/~yshi/complexGeometry2022.html  
