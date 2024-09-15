@@ -22,7 +22,7 @@ The ∂-Problem in the Twenty-First Century https://www.slmath.org/summer-school
 
 ## Math
 ### 1. Complex Geometry
-![14483298_51400](https://github.com/user-attachments/assets/28e75ec9-1324-4238-a4c5-7c841b645b0b)
+<img src="https://github.com/user-attachments/assets/28e75ec9-1324-4238-a4c5-7c841b645b0b" width="20%">
 
 我熟悉的教程：
 《紧黎曼曲面引论》作者: 伍鸿熙/吕以辇/陈志华  
@@ -42,10 +42,10 @@ The ∂-Problem in the Twenty-First Century https://www.slmath.org/summer-school
 Get interested in：  
 &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;1、Index Theory  
 ## 分析与论证（以及胡扯）
-![324px-Honourable_Bertrand_Russell](https://github.com/user-attachments/assets/1f655707-60f0-4062-abd2-81d642ff6a41)  
-&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;~~这个人结过五次婚~~  
+<img src="https://github.com/user-attachments/assets/1f655707-60f0-4062-abd2-81d642ff6a41" width="20%">
   
-感兴趣的话题
+&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;~~这个人结过五次婚~~      
+  
 ### 1. F*cking Schools！！！！！（自由学习&必须警惕学校）
 参考：https://supermemo.guru/wiki/SuperMemo_Guru  
 或知乎up主：https://www.zhihu.com/people/L.M.Sherlock
@@ -57,18 +57,23 @@ Get interested in：
 ### 3. 丹尼尔·丹尼特 的著作
 ### 4. 丘奇兰德夫妇 的著作
 ### 5. 《哥德尔、艾舍尔、巴赫——集异璧之大成》侯世达 
-![哥德尔、埃舍尔、巴赫中文版封面](https://github.com/user-attachments/assets/24d7f57e-da6a-494c-b7e3-51c4a4017279)
+<img src="https://github.com/user-attachments/assets/24d7f57e-da6a-494c-b7e3-51c4a4017279" width="20%">
 
 ### 6. 科幻 von 斯坦尼斯瓦夫·莱姆（波兰）
 #### 《技术大全》
-![images](https://github.com/user-attachments/assets/a53e8a16-dc2d-400e-b704-151465791d2c)
-<img scr="https://github.com/user-attachments/assets/a53e8a16-dc2d-400e-b704-151465791d2c" width="3%">
+<img src="https://github.com/user-attachments/assets/a53e8a16-dc2d-400e-b704-151465791d2c" width="20%">
+
 #### 《泥人十四》
 #### 莱姆的其它小说
 
 ### 7.松本清张
 ### 8.《名侦探柯南》
-##### ![Conan_7](https://github.com/user-attachments/assets/f3dcf96a-abf4-4d79-87bf-02b89a64a8bf)![Conan_4](https://github.com/user-attachments/assets/8502d9d1-4dbe-4b58-9548-1f0bf59f635f)![Conan_6](https://github.com/user-attachments/assets/abbed50a-3694-4886-a353-3caeec47f1a1)![Conan_9](https://github.com/user-attachments/assets/69fbd82e-f1f7-4551-bb98-7ec2d3d41b82)![Conan_12](https://github.com/user-attachments/assets/aa1f5257-903e-4d81-8b24-48a864c96673)![Conan_5](https://github.com/user-attachments/assets/3b8d78dc-f8e2-4388-a122-9c91f3269078)
+<img src="https://github.com/user-attachments/assets/f3dcf96a-abf4-4d79-87bf-02b89a64a8bf" width="20%">
+<img src="https://github.com/user-attachments/assets/8502d9d1-4dbe-4b58-9548-1f0bf59f635f" width="20%">
+<img src="https://github.com/user-attachments/assets/abbed50a-3694-4886-a353-3caeec47f1a1" width="20%">
+<img src="https://github.com/user-attachments/assets/69fbd82e-f1f7-4551-bb98-7ec2d3d41b82" width="20%">
+<img src="https://github.com/user-attachments/assets/aa1f5257-903e-4d81-8b24-48a864c96673" width="20%">
+<img src="https://github.com/user-attachments/assets/3b8d78dc-f8e2-4388-a122-9c91f3269078" width="20%">
 
 
 
