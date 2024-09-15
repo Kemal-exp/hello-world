@@ -12,7 +12,9 @@ Guo Chuan Thiang 数学（物理）课程 http://faculty.bicmr.pku.edu.cn/~guoch
 数学家Loring W. Tu的主页 https://lwtu.github.io  
 数学家Jeff A. Viaclovsky的主页https://www.math.uci.edu/~jviaclov/  
 数学家李文威的主页https://www.wwli.asia/index.php/zh/  
-V.阿诺尔德on teaching math（我并不认同） https://doc.global-sci.org/uploads/Issue/MC/v3n4/34_54.pdf?code=VPA%2Ba4WC5bU8XIYKXpQP3g%3D%3D
+V.阿诺尔德on teaching math（我并不认同） https://doc.global-sci.org/uploads/Issue/MC/v3n4/34_54.pdf?code=VPA%2Ba4WC5bU8XIYKXpQP3g%3D%3D  
+ALGEBRAIC GEOMETRY AND NUMBER THEORY:RATIONAL AND ELLIPTIC CURVES [Ostrik-Tsfasman.pdf](https://github.com/user-attachments/files/17004503/Ostrik-Tsfasman.pdf)
+
 ## 马马虎虎能看的随笔
 [笔记 2024年7月4日（Gauss曲率）.pdf](https://github.com/user-attachments/files/17002811/2024.7.4.Gauss.pdf)  
 [笔记 2024年7月31日（张量计算）.pdf](https://github.com/user-attachments/files/17002817/2024.7.31.pdf)
