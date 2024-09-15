@@ -61,8 +61,11 @@ Get interested in：
 
 ### 6. 科幻 von 斯坦尼斯瓦夫·莱姆（波兰）
 #### 《技术大全》
+![images](https://github.com/user-attachments/assets/a53e8a16-dc2d-400e-b704-151465791d2c)
+<img scr="https://github.com/user-attachments/assets/a53e8a16-dc2d-400e-b704-151465791d2c" width="3%">
 #### 《泥人十四》
 #### 莱姆的其它小说
+
 ### 7.松本清张
 ### 8.《名侦探柯南》
 ##### ![Conan_7](https://github.com/user-attachments/assets/f3dcf96a-abf4-4d79-87bf-02b89a64a8bf)![Conan_4](https://github.com/user-attachments/assets/8502d9d1-4dbe-4b58-9548-1f0bf59f635f)![Conan_6](https://github.com/user-attachments/assets/abbed50a-3694-4886-a353-3caeec47f1a1)![Conan_9](https://github.com/user-attachments/assets/69fbd82e-f1f7-4551-bb98-7ec2d3d41b82)![Conan_12](https://github.com/user-attachments/assets/aa1f5257-903e-4d81-8b24-48a864c96673)![Conan_5](https://github.com/user-attachments/assets/3b8d78dc-f8e2-4388-a122-9c91f3269078)
