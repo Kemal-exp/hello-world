@@ -1,9 +1,9 @@
 # hello-world
 ![640px-Pieter_Bruegel_the_Elder_-_Hunters_in_the_Snow_(Winter)_-_Google_Art_Project](https://github.com/user-attachments/assets/fe4b0f17-1bb4-4d07-83ee-b71dd61a8410)
-
 ![480px-Kazimir_Malevich,_1915,_Black_Suprematic_Square,_oil_on_linen_canvas,_79 5_x_79 5_cm,_Tretyakov_Gallery,_Moscow](https://github.com/user-attachments/assets/79329025-a976-4a0f-8ac9-6081cd059f89)
 ![384px-Suprematist_Composition_-_Kazimir_Malevich](https://github.com/user-attachments/assets/54a2af2e-c43a-4ab6-ad39-5d042e4efc8d)
 ![385px-Angelsatmamre-trinity-rublev-1410](https://github.com/user-attachments/assets/316874e1-5e24-42a7-9d78-df6e4d0ec9ed)
+![411px-AndalusQuran](https://github.com/user-attachments/assets/42ed3194-edf8-4562-bed4-b759744322d1)
 
 
 _(我感兴趣的)Это Любовь Мая_
