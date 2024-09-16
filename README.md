@@ -34,10 +34,14 @@ The ∂-Problem in the Twenty-First Century https://www.slmath.org/summer-school
 &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;1.Kodaira vanishing theorem  
 &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;2.Other vanishing theorems  
 ### 2. Algebraic Topology
+<img width="569" alt="截屏2024-09-16 下午9 37 08" src="https://github.com/user-attachments/assets/99ad2731-138a-4866-bae4-0cc09c879f5f">
+
+
 参考：1、Differential Forms in Algebraic Topology （GTM82）by: Raoul Bott/Loring W. Tu   
 &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;2、《同调论》 by：姜伯驹（北京大学出版社）  
 &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;3、浙理工庄晓波 基础拓扑学(basic topology)的代数拓扑部分 https://b23.tv/b214KHn 
-### 3. Other topics
+### 3. Other topics<img width="437" alt="截屏2024-09-16 下午9 42 46" src="https://github.com/user-attachments/assets/a82840e6-2bc4-479a-853d-70f0b54113ec">
+
 参考：1、《黎曼几何初步》 by&#160;&#160;&#160;伍鸿熙/沈纯理/虞言林  
 &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;2、《黎曼几何选讲》 by&#160;&#160;&#160;伍鸿熙/陈维桓  
 Get interested in：  
