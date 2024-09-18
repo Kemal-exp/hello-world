@@ -25,10 +25,9 @@ The ∂-Problem in the Twenty-First Century https://www.slmath.org/summer-school
 
 ## 马马虎虎能看的随笔
 [笔记 2024年7月4日（Gauss曲率）.pdf](https://github.com/user-attachments/files/17002811/2024.7.4.Gauss.pdf)  
-[笔记 2024年7月31日（张量计算）.pdf]([算术VS几何不等式趣证2024年9月15日.pdf](https://github.com/user-attachments/files/17045189/VS.2024.9.15.pdf)  
-https://github.com/user-attachments/files/17002817/2024.7.31.pdf)  
+[笔记 2024年7月31日（张量计算）.pdf] https://github.com/user-attachments/files/17002817/2024.7.31.pdf)  
 [On math(大纲).pdf](https://github.com/user-attachments/files/17039580/On.math.pdf)
-
+([算术VS几何不等式趣证2024年9月15日.pdf](https://github.com/user-attachments/files/17045189/VS.2024.9.15.pdf) 
 ## Math
 ### 1. Complex Geometry
 <img src="https://github.com/user-attachments/assets/28e75ec9-1324-4238-a4c5-7c841b645b0b" width="20%">
