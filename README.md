@@ -30,6 +30,8 @@ The ∂-Problem in the Twenty-First Century https://www.slmath.org/summer-school
 [算术VS几何不等式趣证2024年9月15日.pdf](https://github.com/user-attachments/files/17045189/VS.2024.9.15.pdf)  
 [指标理论0-简史.pdf](https://github.com/user-attachments/files/17486335/0-.pdf)  
 [指标理论1_示性类.pdf](https://github.com/user-attachments/files/17486340/1_.pdf)  
+[指标理论2-3-Chern Weil Theory-complex Case.pdf](https://github.com/user-attachments/files/17609836/2-3-Chern.Weil.Theory-complex.Case.pdf)   
+
 
 ## Math
 ### 1. Complex Geometry
