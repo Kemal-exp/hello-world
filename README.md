@@ -33,6 +33,8 @@ The ∂-Problem in the Twenty-First Century https://www.slmath.org/summer-school
 [指标理论1_示性类.pdf](https://github.com/user-attachments/files/17486340/1_.pdf)  
 [指标理论2-3-Chern Weil Theory-complex Case.pdf](https://github.com/user-attachments/files/17609836/2-3-Chern.Weil.Theory-complex.Case.pdf)   
 [指标理论4-Chern Weil Theory- Real Case.pdf](https://github.com/user-attachments/files/17609844/4-Chern.Weil.Theory-.Real.Case.pdf)
+[Index Theory 6- Clifford Algebra.pdf](https://github.com/user-attachments/files/17891643/Index.Theory.6-.Clifford.Algebra.pdf)  
+[Index Theory 7-Dirac bundle.pdf](https://github.com/user-attachments/files/17891647/Index.Theory.7-Dirac.bundle.pdf)
 
 ## Math
 ### 1. Complex Geometry
