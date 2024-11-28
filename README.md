@@ -34,11 +34,13 @@ The ∂-Problem in the Twenty-First Century https://www.slmath.org/summer-school
 [指标理论2-3-Chern Weil Theory-complex Case.pdf](https://github.com/user-attachments/files/17609836/2-3-Chern.Weil.Theory-complex.Case.pdf)   
 [指标理论4-Chern Weil Theory- Real Case.pdf](https://github.com/user-attachments/files/17609844/4-Chern.Weil.Theory-.Real.Case.pdf)   
 [Index Theory 6- Clifford Algebra.pdf](https://github.com/user-attachments/files/17891643/Index.Theory.6-.Clifford.Algebra.pdf)  
-[Index Theory 7-Dirac bundle.pdf](https://github.com/user-attachments/files/17891647/Index.Theory.7-Dirac.bundle.pdf)
+[Index Theory 7-Dirac bundle.pdf](https://github.com/user-attachments/files/17891647/Index.Theory.7-Dirac.bundle.pdf)   
+[多圆柱内的延拓.pdf](https://github.com/user-attachments/files/17943022/default.pdf)  
 
 ## Math
 ### 1. Complex Geometry
 <img src="https://github.com/user-attachments/assets/28e75ec9-1324-4238-a4c5-7c841b645b0b" width="20%">
+
 
 我熟悉的教程：
 《紧黎曼曲面引论》作者: 伍鸿熙/吕以辇/陈志华  
