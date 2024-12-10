@@ -6,7 +6,7 @@
 ![411px-AndalusQuran](https://github.com/user-attachments/assets/42ed3194-edf8-4562-bed4-b759744322d1)
 
 
-_(我感兴趣的)Это Любовь Мая_
+_我感兴趣的_
 ## 急急
 有哪位劳斯教我**消没(Vanishing)定理**啊？
 ## 一些收藏
