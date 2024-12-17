@@ -34,7 +34,10 @@ The ∂-Problem in the Twenty-First Century https://www.slmath.org/summer-school
 [指标理论4-Chern Weil Theory- Real Case.pdf](https://github.com/user-attachments/files/17609844/4-Chern.Weil.Theory-.Real.Case.pdf)   
 [Index Theory 6- Clifford Algebra.pdf](https://github.com/user-attachments/files/17891643/Index.Theory.6-.Clifford.Algebra.pdf)  
 [Index Theory 7-Dirac bundle.pdf](https://github.com/user-attachments/files/17891647/Index.Theory.7-Dirac.bundle.pdf)    
+[Index Theory 8.pdf](https://github.com/user-attachments/files/18161538/Index.Theory.8.pdf)     
+[Index theory-9.pdf](https://github.com/user-attachments/files/18161556/Index.theory-9.pdf)     
 [Index Theory 10-An Introduction to Atiyah-Singer Theorem.pdf](https://github.com/user-attachments/files/18072603/Index.Theory.10-An.Introduction.to.Atiyah-Singer.Theorem.pdf)   
+[Index Theory 11-Gauss-Bonnet-Chern.pdf](https://github.com/user-attachments/files/18161561/Index.Theory.11-Gauss-Bonnet-Chern.pdf)      
 [多圆柱内的延拓.pdf](https://github.com/user-attachments/files/17943022/default.pdf)  
 
 ## Math
