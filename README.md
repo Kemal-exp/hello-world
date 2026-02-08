@@ -7,8 +7,7 @@
 
 
 _我感兴趣的_
-## 急急
-有哪位劳斯教我**消没(Vanishing)定理**啊？
+
 ## 一些收藏
 Guo Chuan Thiang 数学（物理）课程 http://faculty.bicmr.pku.edu.cn/~guochuanthiang/  
 李吟The Gauss-Bonnet-Chern Theorem on Riemannian Manifolds https://www.maths.ed.ac.uk/~v1ranick/papers/li4.pdf  
